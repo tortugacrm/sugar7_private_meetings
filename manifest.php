@@ -14,7 +14,7 @@
  *  You should have received a copy of the GNU General Public License
  *  along with 'Private Meetings'.  If not, see http://www.gnu.org/licenses/gpl.html.
  *
- * Copyright November 2013 Olivier Nepomiachty - All rights reserved.
+ * Copyright November 2013 Olivier Nepomiachty - All rights reserved. 
  */
 
 global $sugar_flavor;		
